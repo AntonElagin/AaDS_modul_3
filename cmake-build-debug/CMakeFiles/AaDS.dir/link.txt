@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/AaDS.dir/task2/graph_2.cpp.o CMakeFiles/AaDS.dir/task3/main.cpp.o  -o AaDS 

@@ -1,4 +1,0 @@
-/home/anton/projects/C++/AaDS_M3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/anton/projects/C++/AaDS_M3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/anton/projects/C++/AaDS_M3/cmake-build-debug/CMakeFiles/AaDS_M3.dir
-/home/anton/projects/C++/AaDS_M3/cmake-build-debug/CMakeFiles/AaDS.dir
