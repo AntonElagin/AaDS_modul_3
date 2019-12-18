@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="AaDS_M3" targetName="AaDS_M3" />
+      <config projectName="AaDS_M3" targetName="AaDS" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5119e4eb-984f-4429-b15d-1c2b11adbcab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCResolveContextSettings">
+    <option name="configuration" value="0-Debug-AaDS" />
+  </component>
+  <component name="ProjectId" id="1UwQyLG81BaOs4VfdsvyrXKBG41" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/task2" />
+      <recent name="$PROJECT_DIR$/task1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.AaDS_M3">
+    <configuration name="AaDS" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AaDS_M3" TARGET_NAME="AaDS" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AaDS_M3" RUN_TARGET_NAME="AaDS">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AaDS_M3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AaDS_M3" TARGET_NAME="AaDS_M3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AaDS_M3" RUN_TARGET_NAME="AaDS_M3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.AaDS" />
+      <item itemvalue="CMake Application.AaDS_M3" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5119e4eb-984f-4429-b15d-1c2b11adbcab" name="Default Changelist" comment="" />
+      <created>1576265430221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576265430221</updated>
+      <workItem from="1576265432134" duration="7348000" />
+      <workItem from="1576272924168" duration="10243000" />
+      <workItem from="1576303213059" duration="210000" />
+      <workItem from="1576671437917" duration="17636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="85" width="675" height="484" key="#com.intellij.tools.ToolEditorDialog" timestamp="1576266324305">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="437" y="85" width="675" height="484" key="#com.intellij.tools.ToolEditorDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1576266324305" />
+    <state x="640" y="206" width="630" height="715" key="FileChooserDialogImpl" timestamp="1576303420909">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="640" y="206" width="630" height="715" key="FileChooserDialogImpl/0.40.1920.1040@0.40.1920.1040" timestamp="1576303420909" />
+    <state width="1856" height="379" key="GridCell.Tab.0.bottom" timestamp="1576692161210">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1856" height="379" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1576692161210" />
+    <state width="1856" height="379" key="GridCell.Tab.0.center" timestamp="1576692161210">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1856" height="379" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1576692161210" />
+    <state width="1856" height="379" key="GridCell.Tab.0.left" timestamp="1576692161209">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1856" height="379" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1576692161209" />
+    <state width="1856" height="379" key="GridCell.Tab.0.right" timestamp="1576692161210">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1856" height="379" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1576692161210" />
+    <state width="1856" height="417" key="GridCell.Tab.1.bottom" timestamp="1576692133019">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1856" height="417" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1576692133019" />
+    <state width="1856" height="417" key="GridCell.Tab.1.center" timestamp="1576692133018">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1856" height="417" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1576692133018" />
+    <state width="1856" height="417" key="GridCell.Tab.1.left" timestamp="1576692133018">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1856" height="417" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1576692133018" />
+    <state width="1856" height="417" key="GridCell.Tab.1.right" timestamp="1576692133019">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1856" height="417" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1576692133019" />
+    <state x="340" y="155" width="1230" height="776" key="IDE.errors.dialog" timestamp="1576674249199">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="340" y="155" width="1230" height="776" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1576674249199" />
+    <state x="0" y="40" width="1476" height="1040" key="SettingsEditor" timestamp="1576266350847">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="0" y="40" width="1476" height="1040" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1576266350847" />
+    <state x="131" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1576303233330">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="131" y="229" key="com.intellij.ide.util.TipDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1576303233330" />
+    <state x="582" y="74" width="746" height="978" key="refactoring.ChangeSignatureDialog" timestamp="1576270029474">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="582" y="74" width="746" height="978" key="refactoring.ChangeSignatureDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1576270029474" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/task1/MatrixGraph.cpp</url>
+          <line>55</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="graph.adjacencyLists[2]" />
+        <watch expression="nextVertices[0]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="AaDS_M3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/anton/projects/C++/AaDS_M3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/anton/projects/C++/AaDS_M3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/anton/projects/C++/AaDS_M3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AaDS_M3">
+				<Option output="/home/anton/projects/C++/AaDS_M3/cmake-build-debug/AaDS_M3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/anton/projects/C++/AaDS_M3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/anton/projects/C++/AaDS_M3/task1"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 AaDS_M3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AaDS_M3/fast">
+				<Option output="/home/anton/projects/C++/AaDS_M3/cmake-build-debug/AaDS_M3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/anton/projects/C++/AaDS_M3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/anton/projects/C++/AaDS_M3/task1"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 AaDS_M3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AaDS">
+				<Option output="/home/anton/projects/C++/AaDS_M3/cmake-build-debug/AaDS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/anton/projects/C++/AaDS_M3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/anton/projects/C++/AaDS_M3/task1"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 AaDS"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AaDS/fast">
+				<Option output="/home/anton/projects/C++/AaDS_M3/cmake-build-debug/AaDS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/anton/projects/C++/AaDS_M3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/anton/projects/C++/AaDS_M3/task1"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 AaDS/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/anton/projects/C++/AaDS_M3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/anton/projects/C++/AaDS_M3/task1/ArcGraph.cpp">
+			<Option target="AaDS_M3"/>
+		</Unit>
+		<Unit filename="/home/anton/projects/C++/AaDS_M3/task1/ArcGraph.h">
+			<Option target="AaDS_M3"/>
+		</Unit>
+		<Unit filename="/home/anton/projects/C++/AaDS_M3/task1/IGraph.h">
+			<Option target="AaDS_M3"/>
+		</Unit>
+		<Unit filename="/home/anton/projects/C++/AaDS_M3/task1/ListGraph.cpp">
+			<Option target="AaDS_M3"/>
+		</Unit>
+		<Unit filename="/home/anton/projects/C++/AaDS_M3/task1/ListGraph.h">
+			<Option target="AaDS_M3"/>
+		</Unit>
+		<Unit filename="/home/anton/projects/C++/AaDS_M3/task1/MatrixGraph.cpp">
+			<Option target="AaDS_M3"/>
+		</Unit>
+		<Unit filename="/home/anton/projects/C++/AaDS_M3/task1/MatrixGraph.h">
+			<Option target="AaDS_M3"/>
+		</Unit>
+		<Unit filename="/home/anton/projects/C++/AaDS_M3/task1/SetGraph.cpp">
+			<Option target="AaDS_M3"/>
+		</Unit>
+		<Unit filename="/home/anton/projects/C++/AaDS_M3/task1/SetGraph.h">
+			<Option target="AaDS_M3"/>
+		</Unit>
+		<Unit filename="/home/anton/projects/C++/AaDS_M3/task1/main.cpp">
+			<Option target="AaDS_M3"/>
+		</Unit>
+		<Unit filename="/home/anton/projects/C++/AaDS_M3/task2/graph_2.cpp">
+			<Option target="AaDS"/>
+		</Unit>
+		<Unit filename="/home/anton/projects/C++/AaDS_M3/task3/main.cpp">
+			<Option target="AaDS"/>
+		</Unit>
+		<Unit filename="/home/anton/projects/C++/AaDS_M3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
