@@ -12,6 +12,8 @@ ListGraph::ListGraph(const IGraph& graph) : ListGraph(graph.VerticesCount()) {
 
 ListGraph::~ListGraph() {}
 
+
+
 void ListGraph::AddEdge(int from, int to) {
   assert(from >= 0 && from < adjacencyLists.size());
   assert(to >= 0 && to < adjacencyLists.size());

@@ -1,3 +1,12 @@
+//Дан невзвешенный неориентированный граф. В графе может быть несколько кратчайших путей между какими-то вершинами. Найдите количество различных кратчайших путей между зад анными вершинами.
+//Требования: сложность O(V+E).
+//Формат ввода.
+//v: кол-во вершин (макс. 50000),
+//n: кол-во ребер (макс. 200000),
+//n пар реберных вершин,
+//пара вершин u, w для запроса.
+//Формат вывода.
+//Количество кратчайших путей от u к w.
 #include <iostream>
 #include <queue>
 #include <cassert>
@@ -97,29 +106,6 @@ std::vector<int> ListGraph::GetPrevVertices(int vertex) const {
 }
 
 /////////////////////////////////////////////////////////////////
-//int BFS(const IGraph &graph, int start, int finish) {
-//  std::vector<int> wayFromStart(graph.VerticesCount(), INT_MAX);
-//  std::vector<int> counter(graph.VerticesCount(), 0);
-//  std::queue<int> qu;
-//  qu.push(start);
-//  wayFromStart[start] = 0;
-//  counter[start] = 1;
-//
-//  while (!qu.empty()) {
-//    int current = qu.front();
-//    qu.pop();
-//    std::vector<int> nextVertices = graph.GetNextVertices(current);
-//    for (int v : nextVertices)
-//      if (wayFromStart[v] > wayFromStart[current] + 1) {
-//        counter[v] = counter[current];
-//        wayFromStart[v] = wayFromStart[current] + 1;
-//        qu.push(v);
-//      } else if (wayFromStart[v] == wayFromStart[current] + 1)
-//        counter[v] +=  counter[current];
-//  }
-//  return counter[finish];
-//}
-
 
 void run(std::istream &input, std::ostream &output) {
   int v, n;

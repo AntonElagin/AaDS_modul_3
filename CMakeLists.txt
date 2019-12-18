@@ -3,7 +3,7 @@ project(AaDS_M3)
 
 set(CMAKE_CXX_STANDARD 14)
 include_directories(task1)
-add_executable(AaDS_M3
+add_executable(AaDS_task1
         task1/main.cpp
         task1/IGraph.h
         task1/ListGraph.cpp
@@ -15,6 +15,10 @@ add_executable(AaDS_M3
         task1/ArcGraph.cpp
         task1/ArcGraph.h)
 
-add_executable(AaDS
-        task2/graph_2.cpp
+include_directories(task2)
+add_executable(AaDS_task2
+        task2/graph_2.cpp)
+
+include_directories(task3)
+add_executable(AaDS_task3
         task3/main.cpp)
